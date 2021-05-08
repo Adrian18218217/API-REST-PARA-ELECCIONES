@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-Name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://us-cdbr-east-02.cleardb.com/heroku_fff76e5edcfa753
+    username: b50cd4be7dde4f
+    password: 78964cb9
+  jpa:
+    show-sql: true
+    open-in-view: false
